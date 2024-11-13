@@ -1,2 +1,3 @@
-java -Xmx4096M -Xms4096M -jar server.jar nogui
-pause
+#!/bin/bash
+java -Xmx3G -Xms2G -jar server.jar nogui
+
