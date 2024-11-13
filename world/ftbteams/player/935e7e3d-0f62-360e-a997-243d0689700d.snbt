@@ -1,0 +1,17 @@
+{
+	id: "935e7e3d-0f62-360e-a997-243d0689700d"
+	type: "player"
+	player_name: "Sowrathel"
+	ranks: {
+		935e7e3d-0f62-360e-a997-243d0689700d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sowrathel"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59CF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
