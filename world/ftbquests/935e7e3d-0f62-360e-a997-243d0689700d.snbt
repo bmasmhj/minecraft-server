@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "935e7e3d0f62360ea997243d0689700d"
+	name: "Sowrathel#935e7e3d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
