@@ -1,3 +1,2 @@
-#!/bin/bash
-java -Xmx3G -Xms2G -jar server.jar nogui
-
+#!/usr/bin/env bash
+java -Xmx2G -jar fabric-server-launch.jar nogui
